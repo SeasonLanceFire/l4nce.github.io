@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## 个人信息
 
-You can use the [editor on GitHub](https://github.com/SeasonLanceFire/l4nce.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- 赖发尧/男/1999.12.8/甘肃
+- 手机：1321274005，邮箱：SeasonLanceFire@outlook.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 求职意向
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 期望职位：安全技术/隐私保护
+- 期望城市：深圳/广州/北京/上海/成都
 
-```markdown
-Syntax highlighted code block
+## 教育经历
 
-# Header 1
-## Header 2
-### Header 3
+- 电子科技大学（985&211）      2018.09-至今
+- 计算机科学与工程学院：网络空间安全
+- 该专业除了扎实学习计算机科学基础课程，还额外学习网络安全技术，密码学及其数学原理，计算机网络，数据库等
+- 掌握网络安全类专业课，有网络攻防、密码破译、文件恢复与鉴定、网络安全工具制作实践。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 技能清单
 
-**Bold** and _Italic_ and `Code` text
+- **计算机基础** ：熟练掌握网络安全技术、密码学、数据结构和算法、计算机基础，了解计算机网络、操作系统和计算机组成原理。
+- **攻防技术** : 了解网络安全攻防技术，常见黑客攻击手法及各种常见病毒种类及原理。
+- **Linux** : 了解使用 Linux，有 Linux 下开发的实际经验。
+- **C、C++** ：仔细掌握c、c++基础知识，掌握基本开发能力。
+- **计算机网络** ：对网络原理有系统认识和较好掌握。
+- **数据库**：了解MySQL数据库以及SQL注入等攻击手段。
+- **工具**：掌握Burp、nessus、chopper、nmap、Appscan等渗透相关工具
 
-[Link](url) and ![Image](src)
-```
+## 项目经历 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 计算机网络连接实时监测系统
 
-### Jekyll Themes
+2020-05~2020-08  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeasonLanceFire/l4nce.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **项目描述** :       
+主要功能有：     
+***1***、捕获网络数据包。     
+***2***、给定/分析判断网络异常连接的检测条件。设计网络异常连接检测算法。     
+***3***、编程实现该算法，实时计算主机网络连接异常度。      
+- **工作内容** ：编程实现一个实时监测当前计算机与外部网络连接情况的程序；学习使用winpcap库的使用。识别系统采用图形界面，实践了计算机网络的相关知识和MFC应用程序等工程细节。使自己对安全体系设计与开发有了初步的认识，并利用一些小工具的编写提升了自己的工程能力。
+### 在线考试系统
 
-### Support or Contact
+2021-03~2021-06 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **项目描述** :        
+主要功能有：      
+***1***、能支持试卷的分级管理、试卷录入与维护、试卷生成、考试、评分等功能  
+***2***、综合运用加密、认证、访问控制、数字签名、完整性    
+***3***、校验等安全服务，基于安全机制设计安全协议，确保系统安全、稳定运行     
+- **工作内容** ：基于Client-Server模式，解决涉及网络安全相关问题。有效利用信息安全知识进行系统安全的应用。学习使用了Firebird、IBPP等开发软件。对网络软件开发方法、网络安全场景分析得到了更进一步的认知。
+
+
+## 校园经历
+
+-计算机学院新媒体传媒中心副主任        
+-电子科技大学就业指导中心指导组成员     
+
+## 感谢阅读
+
+感谢您花时间阅读我的简历，期待能与您共事！
+
+<div style="page-break-after: always;"></div>
